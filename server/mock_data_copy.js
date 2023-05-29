@@ -1,0 +1,22 @@
+export const products_data = [
+    {"product_name":"LBEL Couleur luxe rouge irresistible maximum hydration SPF 17","quantity":24,"supplier":"Baumbach-Hamill","patient_name":"Ileane Darbey","patient_telephone":"9457135482","patient_hospital":"Weimann-Powlowski"},
+    {"product_name":"Bikini Zone MEDICATED After Shave Fresh Scent","quantity":4,"supplier":"Purdy-Rowe","patient_name":"Hank Woolerton","patient_telephone":"1377231496","patient_hospital":"Langworth, Hilpert and Block"},
+    {"product_name":"Ciprofloxacin","quantity":70,"supplier":"Davis-Rolfson","patient_name":"Alleen Gradon","patient_telephone":"4168908407","patient_hospital":"Gorczany-Mertz"},
+    {"product_name":"Birch","quantity":13,"supplier":"Parker-Frami","patient_name":"Meghann Darter","patient_telephone":"4733842095","patient_hospital":"Stoltenberg, Funk and Quitzon"},
+    {"product_name":"Waterless Fragrance Free Hand Sanitizer","quantity":23,"supplier":"Johns, Glover and Cummerata","patient_name":"Aloise Halloway","patient_telephone":"5575943660","patient_hospital":"MacGyver-Veum"},
+    {"product_name":"Pravastatin Sodium","quantity":72,"supplier":"Stoltenberg, Stroman and Crooks","patient_name":"Zarah Deinert","patient_telephone":"2437347618","patient_hospital":"Stamm-Walker"},
+    {"product_name":"Telmisartan and Amlodipine","quantity":28,"supplier":"Lakin, Schroeder and Hammes","patient_name":"Itch Albrecht","patient_telephone":"6544058951","patient_hospital":"Mosciski, Dietrich and Heaney"},
+    {"product_name":"Metoprolol Tartrate","quantity":18,"supplier":"Maggio Inc","patient_name":"Nananne Trustey","patient_telephone":"3186134823","patient_hospital":"Konopelski-Cruickshank"},
+    {"product_name":"FLAWLESS FINISH PERFECTLY NUDE MAKEUP BROAD SPECTRUM SUNSCREEN SPF 15 SHADE SOFT BEIGE","quantity":46,"supplier":"Durgan Group","patient_name":"Tracy Draude","patient_telephone":"4172376406","patient_hospital":"Abbott-Hettinger"},
+    {"product_name":"HurriCaine","quantity":92,"supplier":"Gutkowski-Hoeger","patient_name":"Glenn Trewhella","patient_telephone":"8585515427","patient_hospital":"Hintz, Runte and Johnston"},
+    {"product_name":"Pantoprazole Sodium","quantity":53,"supplier":"Prosacco and Sons","patient_name":"Rois Rubra","patient_telephone":"3107398124","patient_hospital":"Thompson, McLaughlin and Champlin"},
+    {"product_name":"OXYGEN","quantity":64,"supplier":"Cremin, Effertz and West","patient_name":"Junina Mearing","patient_telephone":"9005457404","patient_hospital":"Hyatt Inc"},
+    {"product_name":"Black Suede Essential","quantity":30,"supplier":"Hudson-Mohr","patient_name":"Dugald Kimpton","patient_telephone":"1903874997","patient_hospital":"Mitchell, Hirthe and Legros"},
+    {"product_name":"Valacyclovir","quantity":11,"supplier":"Marvin Inc","patient_name":"Sibelle Pawnsford","patient_telephone":"4633101753","patient_hospital":"Konopelski, Terry and Kilback"},
+    {"product_name":"Bambusa Stibium","quantity":84,"supplier":"Leannon-Fritsch","patient_name":"Ursula Waine","patient_telephone":"6165857167","patient_hospital":"Bogisich, Mann and Ondricka"},
+    {"product_name":"Topiramate","quantity":71,"supplier":"Stoltenberg, Langworth and Veum","patient_name":"Josiah O'Sherrin","patient_telephone":"7278039263","patient_hospital":"Hegmann, Swift and Witting"},
+    {"product_name":"Klor-Con","quantity":5,"supplier":"Runolfsdottir, Gerlach and Gislason","patient_name":"Ermentrude Phillpot","patient_telephone":"2301604896","patient_hospital":"Goyette Inc"},
+    {"product_name":"Chloroquine Phosphate","quantity":84,"supplier":"Waters Inc","patient_name":"Vergil Jacobowicz","patient_telephone":"1701239161","patient_hospital":"Wolf Inc"},
+    {"product_name":"Silicea","quantity":22,"supplier":"Watsica-Howe","patient_name":"Delbert Conkey","patient_telephone":"3107111970","patient_hospital":"Gulgowski Inc"},
+    {"product_name":"Gelato Topical Anesthetic","quantity":65,"supplier":"Conroy Group","patient_name":"Auberon Croxall","patient_telephone":"1764065000","patient_hospital":"Medhurst-Hayes"}
+]
