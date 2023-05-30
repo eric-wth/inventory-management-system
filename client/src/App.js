@@ -7,7 +7,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://localhost:8000/products');
+        const response = await fetch('https://inventory-sys.onrender.com/products');
         const jsonData = await response.json();
         setData(jsonData);
         setLoading(false);
