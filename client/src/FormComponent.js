@@ -29,7 +29,7 @@ const FormComponent = ({ onSubmit }) => {
     };
 
     try{
-        const response = await axios.post('http://localhost:8000/products', formData);
+        const response = await axios.post('https://inventory-sys.onrender.com/products', formData);
         console.log(response.data);
     }
     catch (err) {

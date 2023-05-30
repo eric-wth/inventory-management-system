@@ -12,7 +12,7 @@ const DisplayComponent = () => {
     const fetchData = async () => {
         try {
           // Send a GET request to the backend API
-          const response = await axios.get('http://localhost:8000/products');
+          const response = await axios.get('https://inventory-sys.onrender.com/products');
     
           // Set the data received from the backend in the component state
           setData(response.data);
