@@ -30,6 +30,7 @@ const FormComponent = ({ onSubmit }) => {
 
     try{
         const response = await axios.post('http://localhost:8000/products', formData);
+        console.log(response.data);
     }
     catch (err) {
         console.error(err);
