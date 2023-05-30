@@ -9,3 +9,35 @@ export const getProducts = async(req,res) => {
         throw err;
     }
 };
+
+
+export const addProducts = async(req,res) => {
+    try{
+        const {
+            product_name,
+            quantity,
+            supplier,
+            patient_name,
+            patient_telephone,
+            patient_hospital
+        } = req.body;
+
+        const newProduct = new ProductModel(
+            {
+                product_name,
+                quantity,
+                supplier,
+                patient_name,
+                patient_telephone,
+                patient_hospital
+            }
+        );
+
+        const savedProduct = await newProduct.save();
+        res.json(savedProduct);
+
+    }
+    catch (err) {
+        throw err;
+    }
+};
